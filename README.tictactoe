@@ -25,7 +25,7 @@ The main difference between the view model and the Presenter in the MVP pattern 
     3. Score Card For Both Player (Player X and Player O) <br>
     4. Next Match Button (To Start A Fresh New Match) <br>
     5. Restart Button (To Reset the game and the Score Card to Initial) <br>
-    6. Winner / Draw Indicator  <br>
+    6. Win / Draw Indicator  <br>
     7. Winning Player Indication <br>
 
  <h2> GUI </h2>
