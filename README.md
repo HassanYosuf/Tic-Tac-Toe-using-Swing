@@ -8,7 +8,10 @@ Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation C
 It is a platform dependent API for creating Graphical User Interface (GUI) for java programs.
 
  <h2> Model–view </h2>
-![](modelview.png)
+ 
+<p align="center">
+  <img src="modelview.png" width="350" title="hover text">
+</p>
 
 <h4> Model </h4>
 Model refers either to a domain model, which represents real state content (an object-oriented approach), or to the data access layer, which represents content (a data-centric approach).
@@ -27,5 +30,9 @@ The view is the structure, layout, and appearance of what a user sees on the scr
     7. Winning Player Indication <br>
 
  <h2> GUI </h2>
-![](Starting Game.PNG)
-![](Winning Game.PNG)
+ <p align="center">
+  <img src="Starting Game.PNG" width="350" title="hover text">
+</p>
+<p align="center">
+  <img src="Winning Game.PNG" width="350" title="hover text">
+</p>
