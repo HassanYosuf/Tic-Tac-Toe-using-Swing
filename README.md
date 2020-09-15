@@ -10,7 +10,7 @@ It is a platform dependent API for creating Graphical User Interface (GUI) for j
  <h2> Model–view </h2>
  
 <p align="center">
-  <img src="modelview.png" width="350" title="hover text">
+  <img src="modelview.png" width="500" height="auto" title="hover text">
 </p>
 
 <h4> Model </h4>
@@ -31,8 +31,8 @@ The view is the structure, layout, and appearance of what a user sees on the scr
 
  <h2> GUI </h2>
  <p align="center">
-  <img src="Starting Game.PNG" width="350" title="hover text">
+  <img src="Starting Game.PNG"  width="500" height="auto" title="hover text">
 </p>
 <p align="center">
-  <img src="Winning Game.PNG" width="350" title="hover text">
+  <img src="Winning Game.PNG"  width="500" height="auto" title="hover text">
 </p>
