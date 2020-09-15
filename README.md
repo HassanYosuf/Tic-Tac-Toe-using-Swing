@@ -3,9 +3,11 @@
 
 <h2>Swing (GUI) </h2>
 Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
+<h5>For more</h5> https://www.geeksforgeeks.org/creating-frames-using-swings-java/
 
  <h2> AWT(Abstract Window Toolkit) </h2>
 It is a platform dependent API for creating Graphical User Interface (GUI) for java programs.
+<h5>For more</h5>https://www.javatpoint.com/java-awt
 
  <h2> Model–view </h2>
  
