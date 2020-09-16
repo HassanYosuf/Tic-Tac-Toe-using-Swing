@@ -38,3 +38,6 @@ The view is the structure, layout, and appearance of what a user sees on the scr
 <p align="center">
   <img src="Winning Game.PNG"  width="500" height="auto" title="hover text">
 </p>
+<p align="center">
+  <img src="Draw Game.PNG"  width="500" height="auto" title="hover text">
+</p>
